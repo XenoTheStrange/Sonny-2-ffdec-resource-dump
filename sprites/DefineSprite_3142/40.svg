@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns:ffdec="https://www.free-decompiler.com/flash" xmlns:xlink="http://www.w3.org/1999/xlink" ffdec:objectType="frame" height="863.3px" width="1537.1px" xmlns="http://www.w3.org/2000/svg">
+  <g transform="matrix(2.0, 0.0, 0.0, 2.0, 772.7, 414.8)">
+    <use ffdec:characterId="2995" height="415.1" transform="matrix(1.0, 0.0, 0.0, 1.0, -384.45, -207.4)" width="2.45" xlink:href="#shape0"/>
+    <use ffdec:characterId="2994" height="425.1" transform="matrix(1.0, 0.0, 0.0, 1.0, -386.35, -207.4)" width="768.55" xlink:href="#sprite0"/>
+    <filter id="filter0">
+      <feFlood flood-color="#000000" flood-opacity="1.0" result="filterResult0"/>
+      <feOffset dx="3.5355799791601" dy="3.535487832104965" in="SourceGraphic" result="filterResult1"/>
+      <feComposite in="filterResult0" in2="filterResult1" operator="out" result="filterResult2"/>
+      <feConvolveMatrix divisor="25.0" in="filterResult2" kernelMatrix="1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1" order="5 5" result="filterResult3"/>
+      <feComposite in="filterResult3" in2="SourceGraphic" operator="in" result="filterResult4"/>
+      <feComposite in="filterResult4" in2="SourceGraphic" operator="over" result="filterResult5"/>
+    </filter>
+    <use ffdec:characterId="2990" filter="url(#filter0)" height="267.15" transform="matrix(2.6144, 0.0, 0.0, 1.1228, -325.5403, -139.9942)" width="249.05" xlink:href="#sprite1"/>
+    <filter id="filter1">
+      <feColorMatrix in="SourceGraphic" result="filterResult6" type="matrix" values="0 0 0 0 0.0,0 0 0 0 0.0,0 0 0 0 0.0,0 0 0 1 0"/>
+      <feConvolveMatrix divisor="9.0" in="filterResult6" kernelMatrix="1 1 1 1 1 1 1 1 1" order="3 3" result="filterResult7"/>
+      <feComposite in="SourceGraphic" in2="filterResult7" operator="over" result="filterResult8"/>
+      <feOffset dx="1.41423199166404" dy="1.4141951328419862" in="filterResult8" result="filterResult9"/>
+      <feColorMatrix in="filterResult9" result="filterResult10" type="matrix" values="0 0 0 0 0.0,0 0 0 0 0.0,0 0 0 0 0.0,0 0 0 1 0"/>
+      <feConvolveMatrix divisor="64.0" in="filterResult10" kernelMatrix="1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1" order="8 8" result="filterResult11"/>
+      <feColorMatrix in="filterResult11" result="filterResult12" type="matrix" values="1 0 0 0 0,0 1 0 0 0,0 0 1 0 0,0 0 0 1.0078125 0"/>
+      <feComposite in="filterResult8" in2="filterResult12" operator="over" result="filterResult13"/>
+    </filter>
+    <use ffdec:characterId="3135" filter="url(#filter1)" height="30.85" transform="matrix(1.0, 0.0, 0.0, 1.0, -170.1, -86.55)" width="164.1" xlink:href="#text0"/>
+    <filter id="filter2">
+      <feColorMatrix in="SourceGraphic" result="filterResult14" type="matrix" values="0 0 0 0 0.0,0 0 0 0 0.0,0 0 0 0 0.0,0 0 0 1 0"/>
+      <feConvolveMatrix divisor="9.0" in="filterResult14" kernelMatrix="1 1 1 1 1 1 1 1 1" order="3 3" result="filterResult15"/>
+      <feComposite in="SourceGraphic" in2="filterResult15" operator="over" result="filterResult16"/>
+      <feOffset dx="1.41423199166404" dy="1.4141951328419862" in="filterResult16" result="filterResult17"/>
+      <feColorMatrix in="filterResult17" result="filterResult18" type="matrix" values="0 0 0 0 0.0,0 0 0 0 0.0,0 0 0 0 0.0,0 0 0 1 0"/>
+      <feConvolveMatrix divisor="64.0" in="filterResult18" kernelMatrix="1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1" order="8 8" result="filterResult19"/>
+      <feColorMatrix in="filterResult19" result="filterResult20" type="matrix" values="1 0 0 0 0,0 1 0 0 0,0 0 1 0 0,0 0 0 1.0078125 0"/>
+      <feComposite in="filterResult16" in2="filterResult20" operator="over" result="filterResult21"/>
+    </filter>
+    <use ffdec:characterId="3134" filter="url(#filter2)" height="30.85" transform="matrix(1.0, 0.0, 0.0, 1.0, -170.1, -58.55)" width="164.1" xlink:href="#text1"/>
+    <filter id="filter3">
+      <feColorMatrix in="SourceGraphic" result="filterResult22" type="matrix" values="0 0 0 0 0.0,0 0 0 0 0.0,0 0 0 0 0.0,0 0 0 1 0"/>
+      <feConvolveMatrix divisor="9.0" in="filterResult22" kernelMatrix="1 1 1 1 1 1 1 1 1" order="3 3" result="filterResult23"/>
+      <feComposite in="SourceGraphic" in2="filterResult23" operator="over" result="filterResult24"/>
+      <feOffset dx="1.41423199166404" dy="1.4141951328419862" in="filterResult24" result="filterResult25"/>
+      <feColorMatrix in="filterResult25" result="filterResult26" type="matrix" values="0 0 0 0 0.0,0 0 0 0 0.0,0 0 0 0 0.0,0 0 0 1 0"/>
+      <feConvolveMatrix divisor="64.0" in="filterResult26" kernelMatrix="1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1" order="8 8" result="filterResult27"/>
+      <feColorMatrix in="filterResult27" result="filterResult28" type="matrix" values="1 0 0 0 0,0 1 0 0 0,0 0 1 0 0,0 0 0 1.0078125 0"/>
+      <feComposite in="filterResult24" in2="filterResult28" operator="over" result="filterResult29"/>
+    </filter>
+    <use ffdec:characterId="3133" filter="url(#filter3)" height="30.85" transform="matrix(1.0, 0.0, 0.0, 1.0, 1.0, -86.55)" width="119.0" xlink:href="#text2"/>
+    <filter id="filter4">
+      <feColorMatrix in="SourceGraphic" result="filterResult30" type="matrix" values="0 0 0 0 0.0,0 0 0 0 0.0,0 0 0 0 0.0,0 0 0 1 0"/>
+      <feConvolveMatrix divisor="9.0" in="filterResult30" kernelMatrix="1 1 1 1 1 1 1 1 1" order="3 3" result="filterResult31"/>
+      <feComposite in="SourceGraphic" in2="filterResult31" operator="over" result="filterResult32"/>
+      <feOffset dx="1.41423199166404" dy="1.4141951328419862" in="filterResult32" result="filterResult33"/>
+      <feColorMatrix in="filterResult33" result="filterResult34" type="matrix" values="0 0 0 0 0.0,0 0 0 0 0.0,0 0 0 0 0.0,0 0 0 1 0"/>
+      <feConvolveMatrix divisor="64.0" in="filterResult34" kernelMatrix="1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1" order="8 8" result="filterResult35"/>
+      <feColorMatrix in="filterResult35" result="filterResult36" type="matrix" values="1 0 0 0 0,0 1 0 0 0,0 0 1 0 0,0 0 0 1.0078125 0"/>
+      <feComposite in="filterResult32" in2="filterResult36" operator="over" result="filterResult37"/>
+    </filter>
+    <use ffdec:characterId="3132" filter="url(#filter4)" height="30.85" transform="matrix(1.0, 0.0, 0.0, 1.0, 1.0, -58.55)" width="121.0" xlink:href="#text3"/>
+    <use ffdec:characterId="3131" height="30.0" transform="matrix(5.3504, 0.0, 0.0, 0.7269, -94.5554, -87.5035)" width="30.0" xlink:href="#button0"/>
+    <use ffdec:characterId="2773" height="30.0" transform="matrix(5.3504, 0.0, 0.0, 0.7269, -96.1054, -58.1535)" width="30.0" xlink:href="#button1"/>
+    <filter id="filter5">
+      <feColorMatrix in="SourceGraphic" result="filterResult38" type="matrix" values="0 0 0 0 0.0,0 0 0 0 0.0,0 0 0 0 0.0,0 0 0 1 0"/>
+      <feConvolveMatrix divisor="9.0" in="filterResult38" kernelMatrix="1 1 1 1 1 1 1 1 1" order="3 3" result="filterResult39"/>
+      <feComposite in="SourceGraphic" in2="filterResult39" operator="over" result="filterResult40"/>
+      <feOffset dx="1.41423199166404" dy="1.4141951328419862" in="filterResult40" result="filterResult41"/>
+      <feColorMatrix in="filterResult41" result="filterResult42" type="matrix" values="0 0 0 0 0.0,0 0 0 0 0.0,0 0 0 0 0.0,0 0 0 1 0"/>
+      <feConvolveMatrix divisor="64.0" in="filterResult42" kernelMatrix="1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1" order="8 8" result="filterResult43"/>
+      <feColorMatrix in="filterResult43" result="filterResult44" type="matrix" values="1 0 0 0 0,0 1 0 0 0,0 0 1 0 0,0 0 0 1.0078125 0"/>
+      <feComposite in="filterResult40" in2="filterResult44" operator="over" result="filterResult45"/>
+    </filter>
+    <use ffdec:characterId="3130" filter="url(#filter5)" height="24.1" transform="matrix(1.0, 0.0, 0.0, 1.0, -204.95, -123.3)" width="409.95" xlink:href="#text4"/>
+    <filter id="filter6">
+      <feColorMatrix in="SourceGraphic" result="filterResult46" type="matrix" values="0 0 0 0 0.0,0 0 0 0 0.0,0 0 0 0 0.0,0 0 0 1 0"/>
+      <feConvolveMatrix divisor="9.0" in="filterResult46" kernelMatrix="1 1 1 1 1 1 1 1 1" order="3 3" result="filterResult47"/>
+      <feComposite in="SourceGraphic" in2="filterResult47" operator="over" result="filterResult48"/>
+      <feOffset dx="1.41423199166404" dy="1.4141951328419862" in="filterResult48" result="filterResult49"/>
+      <feColorMatrix in="filterResult49" result="filterResult50" type="matrix" values="0 0 0 0 0.0,0 0 0 0 0.0,0 0 0 0 0.0,0 0 0 1 0"/>
+      <feConvolveMatrix divisor="64.0" in="filterResult50" kernelMatrix="1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1" order="8 8" result="filterResult51"/>
+      <feColorMatrix in="filterResult51" result="filterResult52" type="matrix" values="1 0 0 0 0,0 1 0 0 0,0 0 1 0 0,0 0 0 1.0078125 0"/>
+      <feComposite in="filterResult48" in2="filterResult52" operator="over" result="filterResult53"/>
+    </filter>
+    <use ffdec:characterId="3129" filter="url(#filter6)" height="30.85" transform="matrix(1.0, 0.0, 0.0, 1.0, -170.1, -29.55)" width="164.1" xlink:href="#text5"/>
+    <filter id="filter7">
+      <feColorMatrix in="SourceGraphic" result="filterResult54" type="matrix" values="0 0 0 0 0.0,0 0 0 0 0.0,0 0 0 0 0.0,0 0 0 1 0"/>
+      <feConvolveMatrix divisor="9.0" in="filterResult54" kernelMatrix="1 1 1 1 1 1 1 1 1" order="3 3" result="filterResult55"/>
+      <feComposite in="SourceGraphic" in2="filterResult55" operator="over" result="filterResult56"/>
+      <feOffset dx="1.41423199166404" dy="1.4141951328419862" in="filterResult56" result="filterResult57"/>
+      <feColorMatrix in="filterResult57" result="filterResult58" type="matrix" values="0 0 0 0 0.0,0 0 0 0 0.0,0 0 0 0 0.0,0 0 0 1 0"/>
+      <feConvolveMatrix divisor="64.0" in="filterResult58" kernelMatrix="1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1" order="8 8" result="filterResult59"/>
+      <feColorMatrix in="filterResult59" result="filterResult60" type="matrix" values="1 0 0 0 0,0 1 0 0 0,0 0 1 0 0,0 0 0 1.0078125 0"/>
+      <feComposite in="filterResult56" in2="filterResult60" operator="over" result="filterResult61"/>
+    </filter>
+    <use ffdec:characterId="3128" filter="url(#filter7)" height="30.85" transform="matrix(1.0, 0.0, 0.0, 1.0, 1.0, -29.55)" width="121.0" xlink:href="#text6"/>
+    <use ffdec:characterId="2772" height="30.0" transform="matrix(5.3504, 0.0, 0.0, 0.7269, -96.1054, -29.7535)" width="30.0" xlink:href="#button2"/>
+    <filter id="filter8">
+      <feColorMatrix in="SourceGraphic" result="filterResult62" type="matrix" values="0 0 0 0 0.0,0 0 0 0 0.0,0 0 0 0 0.0,0 0 0 1 0"/>
+      <feConvolveMatrix divisor="9.0" in="filterResult62" kernelMatrix="1 1 1 1 1 1 1 1 1" order="3 3" result="filterResult63"/>
+      <feComposite in="SourceGraphic" in2="filterResult63" operator="over" result="filterResult64"/>
+      <feOffset dx="1.41423199166404" dy="1.4141951328419862" in="filterResult64" result="filterResult65"/>
+      <feColorMatrix in="filterResult65" result="filterResult66" type="matrix" values="0 0 0 0 0.0,0 0 0 0 0.0,0 0 0 0 0.0,0 0 0 1 0"/>
+      <feConvolveMatrix divisor="64.0" in="filterResult66" kernelMatrix="1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1" order="8 8" result="filterResult67"/>
+      <feColorMatrix in="filterResult67" result="filterResult68" type="matrix" values="1 0 0 0 0,0 1 0 0 0,0 0 1 0 0,0 0 0 1.0078125 0"/>
+      <feComposite in="filterResult64" in2="filterResult68" operator="over" result="filterResult69"/>
+    </filter>
+    <use ffdec:characterId="3127" filter="url(#filter8)" height="113.55" transform="matrix(1.0, 0.0, 0.0, 1.0, -290.0, 67.4)" width="586.3" xlink:href="#text7"/>
+    <filter id="filter9">
+      <feColorMatrix in="SourceGraphic" result="filterResult70" type="matrix" values="0 0 0 0 0.0,0 0 0 0 0.0,0 0 0 0 0.0,0 0 0 1 0"/>
+      <feConvolveMatrix divisor="9.0" in="filterResult70" kernelMatrix="1 1 1 1 1 1 1 1 1" order="3 3" result="filterResult71"/>
+      <feComposite in="SourceGraphic" in2="filterResult71" operator="over" result="filterResult72"/>
+      <feOffset dx="1.41423199166404" dy="1.4141951328419862" in="filterResult72" result="filterResult73"/>
+      <feColorMatrix in="filterResult73" result="filterResult74" type="matrix" values="0 0 0 0 0.0,0 0 0 0 0.0,0 0 0 0 0.0,0 0 0 1 0"/>
+      <feConvolveMatrix divisor="64.0" in="filterResult74" kernelMatrix="1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1" order="8 8" result="filterResult75"/>
+      <feColorMatrix in="filterResult75" result="filterResult76" type="matrix" values="1 0 0 0 0,0 1 0 0 0,0 0 1 0 0,0 0 0 1.0078125 0"/>
+      <feComposite in="filterResult72" in2="filterResult76" operator="over" result="filterResult77"/>
+    </filter>
+    <use ffdec:characterId="3126" filter="url(#filter9)" height="30.85" transform="matrix(1.0, 0.0, 0.0, 1.0, -170.1, -0.55)" width="164.1" xlink:href="#text8"/>
+    <filter id="filter10">
+      <feColorMatrix in="SourceGraphic" result="filterResult78" type="matrix" values="0 0 0 0 0.0,0 0 0 0 0.0,0 0 0 0 0.0,0 0 0 1 0"/>
+      <feConvolveMatrix divisor="9.0" in="filterResult78" kernelMatrix="1 1 1 1 1 1 1 1 1" order="3 3" result="filterResult79"/>
+      <feComposite in="SourceGraphic" in2="filterResult79" operator="over" result="filterResult80"/>
+      <feOffset dx="1.41423199166404" dy="1.4141951328419862" in="filterResult80" result="filterResult81"/>
+      <feColorMatrix in="filterResult81" result="filterResult82" type="matrix" values="0 0 0 0 0.0,0 0 0 0 0.0,0 0 0 0 0.0,0 0 0 1 0"/>
+      <feConvolveMatrix divisor="64.0" in="filterResult82" kernelMatrix="1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1" order="8 8" result="filterResult83"/>
+      <feColorMatrix in="filterResult83" result="filterResult84" type="matrix" values="1 0 0 0 0,0 1 0 0 0,0 0 1 0 0,0 0 0 1.0078125 0"/>
+      <feComposite in="filterResult80" in2="filterResult84" operator="over" result="filterResult85"/>
+    </filter>
+    <use ffdec:characterId="3125" filter="url(#filter10)" height="30.85" transform="matrix(1.0, 0.0, 0.0, 1.0, 1.0, -0.55)" width="121.0" xlink:href="#text9"/>
+    <use ffdec:characterId="3124" height="30.0" transform="matrix(5.3504, 0.0, 0.0, 0.7269, -96.1054, -0.2535)" width="30.0" xlink:href="#button3"/>
+    <filter id="filter11">
+      <feColorMatrix in="SourceGraphic" result="filterResult86" type="matrix" values="0 0 0 0 0.0,0 0 0 0 0.0,0 0 0 0 0.0,0 0 0 1 0"/>
+      <feConvolveMatrix divisor="9.0" in="filterResult86" kernelMatrix="1 1 1 1 1 1 1 1 1" order="3 3" result="filterResult87"/>
+      <feComposite in="SourceGraphic" in2="filterResult87" operator="over" result="filterResult88"/>
+      <feOffset dx="1.41423199166404" dy="1.4141951328419862" in="filterResult88" result="filterResult89"/>
+      <feColorMatrix in="filterResult89" result="filterResult90" type="matrix" values="0 0 0 0 0.0,0 0 0 0 0.0,0 0 0 0 0.0,0 0 0 1 0"/>
+      <feConvolveMatrix divisor="64.0" in="filterResult90" kernelMatrix="1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1" order="8 8" result="filterResult91"/>
+      <feColorMatrix in="filterResult91" result="filterResult92" type="matrix" values="1 0 0 0 0,0 1 0 0 0,0 0 1 0 0,0 0 0 1.0078125 0"/>
+      <feComposite in="filterResult88" in2="filterResult92" operator="over" result="filterResult93"/>
+    </filter>
+    <use ffdec:characterId="3123" filter="url(#filter11)" height="30.85" transform="matrix(1.0, 0.0, 0.0, 1.0, -170.1, 28.45)" width="164.1" xlink:href="#text10"/>
+    <filter id="filter12">
+      <feColorMatrix in="SourceGraphic" result="filterResult94" type="matrix" values="0 0 0 0 0.0,0 0 0 0 0.0,0 0 0 0 0.0,0 0 0 1 0"/>
+      <feConvolveMatrix divisor="9.0" in="filterResult94" kernelMatrix="1 1 1 1 1 1 1 1 1" order="3 3" result="filterResult95"/>
+      <feComposite in="SourceGraphic" in2="filterResult95" operator="over" result="filterResult96"/>
+      <feOffset dx="1.41423199166404" dy="1.4141951328419862" in="filterResult96" result="filterResult97"/>
+      <feColorMatrix in="filterResult97" result="filterResult98" type="matrix" values="0 0 0 0 0.0,0 0 0 0 0.0,0 0 0 0 0.0,0 0 0 1 0"/>
+      <feConvolveMatrix divisor="64.0" in="filterResult98" kernelMatrix="1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1" order="8 8" result="filterResult99"/>
+      <feColorMatrix in="filterResult99" result="filterResult100" type="matrix" values="1 0 0 0 0,0 1 0 0 0,0 0 1 0 0,0 0 0 1.0078125 0"/>
+      <feComposite in="filterResult96" in2="filterResult100" operator="over" result="filterResult101"/>
+    </filter>
+    <use ffdec:characterId="3122" filter="url(#filter12)" height="30.85" transform="matrix(1.0, 0.0, 0.0, 1.0, 1.0, 28.45)" width="121.0" xlink:href="#text11"/>
+    <filter id="filter13">
+      <feFlood flood-color="#000000" flood-opacity="1.0" result="filterResult102"/>
+      <feOffset dx="2.12134798749606" dy="2.1212926992629795" in="SourceGraphic" result="filterResult103"/>
+      <feComposite in="filterResult102" in2="filterResult103" operator="out" result="filterResult104"/>
+      <feConvolveMatrix divisor="49.0" in="filterResult104" kernelMatrix="1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1" order="7 7" result="filterResult105"/>
+      <feComposite in="filterResult105" in2="SourceGraphic" operator="in" result="filterResult106"/>
+      <feColorMatrix in="filterResult106" result="filterResult107" type="matrix" values="1 0 0 0 0,0 1 0 0 0,0 0 1 0 0,0 0 0 0.7578125 0"/>
+      <feComposite in="filterResult107" in2="SourceGraphic" operator="over" result="filterResult108"/>
+    </filter>
+    <use ffdec:characterId="2855" filter="url(#filter13)" height="36.4" transform="matrix(1.0, 0.0, 0.0, 1.0, 334.05, -192.65)" width="36.7" xlink:href="#sprite2"/>
+    <use ffdec:characterId="2853" height="30.0" transform="matrix(1.0, 0.0, 0.0, 1.0, 338.1, -189.7)" width="30.0" xlink:href="#button4"/>
+  </g>
+  <defs>
+    <g id="shape0" transform="matrix(1.0, 0.0, 0.0, 1.0, 384.45, 207.4)">
+      <path d="M-383.95 -206.9 L-382.5 -206.9 M-382.5 207.2 L-383.95 207.2" fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.0"/>
+    </g>
+    <g id="sprite0" transform="matrix(1.0, 0.0, 0.0, 1.0, 384.2, 207.55)">
+      <use ffdec:characterId="2993" height="425.1" transform="matrix(1.0, 0.0, 0.0, 1.0, -384.2, -207.55)" width="768.55" xlink:href="#shape1"/>
+    </g>
+    <g id="shape1" transform="matrix(1.0, 0.0, 0.0, 1.0, 384.2, 207.55)">
+      <path d="M383.85 217.05 L-383.35 217.05 -383.35 -207.05 383.85 -207.05 383.85 217.05" fill="url(#gradient0)" fill-rule="evenodd" stroke="none"/>
+      <path d="M383.85 217.05 L-383.35 217.05 -383.35 -207.05 383.85 -207.05 383.85 217.05 Z" fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.0"/>
+      <path d="M195.5 -207.35 L173.1 -182.6 231.95 -146.05 321.15 -207.35 335.1 -207.35 326.5 -199.15 379.4 -149.45 384.0 -157.55 384.0 -147.45 338.3 -53.0 384.0 110.0 384.0 118.0 338.1 198.25 384.0 208.4 383.25 213.45 333.75 205.95 327.3 217.15 320.25 217.15 326.75 204.85 257.55 194.1 243.7 217.15 236.9 217.15 280.8 141.35 119.15 92.35 206.1 217.15 184.35 217.15 128.8 122.65 19.95 173.35 24.15 217.15 9.35 217.15 9.35 205.65 -45.25 195.6 -47.65 217.15 -57.45 217.15 -65.3 211.05 -66.15 212.3 -82.5 201.65 -144.8 217.15 -177.6 217.15 -93.35 194.5 -177.6 139.45 -175.9 142.9 -262.65 187.8 -228.0 217.15 -240.45 217.15 -268.45 190.85 -319.35 217.15 -343.45 217.15 -343.7 216.55 -177.6 139.45 -118.8 112.1 -118.35 113.1 -162.0 135.7 -65.3 211.05 -62.7 207.1 -60.4 207.6 -40.65 113.55 -110.0 110.3 -37.25 97.55 -30.55 65.7 -22.2 -8.75 -59.15 -31.95 -117.4 107.15 -117.85 106.95 -120.45 108.1 -167.3 -1.95 -259.5 9.4 -146.5 121.0 -148.25 122.75 -272.55 12.75 -272.75 11.05 -334.85 18.65 -351.95 201.7 -343.75 216.6 -345.0 217.15 -350.9 217.15 -353.1 213.35 -353.45 217.15 -361.35 217.15 -360.0 201.25 -384.2 158.85 -384.2 143.25 -358.95 189.05 -344.6 19.9 -384.2 24.75 -384.2 17.85 -364.6 15.3 -373.0 -131.25 -367.8 -131.55 -384.2 -140.25 -384.2 -153.6 -347.85 -133.1 -307.8 -199.75 -336.0 -207.35 -287.35 -207.35 -290.05 -203.55 -178.35 -171.35 -177.2 -207.35 -166.85 -207.35 -171.5 -142.15 -107.75 -172.45 -110.65 -207.35 -103.7 -207.35 -101.45 -176.15 -101.15 -175.55 -37.55 -205.75 -57.0 -162.5 -14.65 -175.5 -25.5 -207.35 -23.6 -207.35 -12.15 -176.25 46.05 -194.15 27.6 -207.35 46.8 -207.35 57.8 -197.8 89.1 -207.35 90.2 -204.05 62.0 -194.15 128.4 -136.7 127.5 -135.65 129.35 -134.35 129.4 -134.3 130.85 -133.25 130.05 -132.15 92.0 -91.9 93.1 -90.9 140.8 -68.9 85.1 -84.6 39.8 -36.7 39.4 -37.05 34.5 -31.4 -12.1 -168.05 -57.65 -151.95 -61.9 -151.6 -102.35 -62.45 -101.15 -64.25 -21.6 -9.7 -22.2 -8.75 -14.5 -3.9 -16.8 -0.1 -30.55 65.7 -43.85 183.2 -42.9 183.3 9.35 193.9 9.35 63.2 18.75 160.4 19.25 160.35 123.25 113.15 74.2 29.8 75.1 29.2 113.1 83.75 111.1 85.2 114.75 86.1 119.15 92.35 120.3 87.5 248.35 119.75 256.1 17.35 166.95 -81.7 167.4 -82.15 264.2 15.5 263.85 26.2 348.65 6.8 323.65 -80.8 161.55 -175.25 164.2 -172.75 133.8 -139.1 179.65 -207.35 195.5 -207.35 M127.5 -135.65 L51.3 -190.35 -9.4 -168.95 39.4 -37.05 124.65 -135.05 127.5 -135.65 M255.0 -131.7 L328.1 -86.3 329.0 -86.3 333.85 -69.15 379.4 -149.45 376.45 -145.9 321.25 -194.25 255.0 -131.7 M381.3 102.6 L376.4 104.1 355.55 30.95 264.95 181.7 266.0 182.4 331.05 196.7 381.3 102.6 M352.15 19.05 L350.45 13.15 263.25 44.55 260.7 122.9 287.6 129.65 351.55 19.2 352.15 19.05 M-173.5 -113.75 L-110.45 -70.6 -46.5 -195.35 -172.7 -124.85 -173.5 -113.75 M-312.95 -171.7 L-303.0 -110.25 -306.3 -109.7 -183.35 -40.45 -182.35 -40.45 -178.55 -165.1 -295.15 -196.4 -312.95 -171.7 M-323.35 -157.2 L-342.75 -130.25 -306.3 -109.7 -323.35 -157.2 M-184.1 -34.45 L-367.8 -131.55 -356.6 14.25 -170.7 -9.95 -181.55 -35.6 -178.9 -36.8 -117.85 106.95 -70.8 -38.65 -70.5 -39.1 -174.1 -104.05 -178.65 -40.15 -182.35 -40.45 -182.45 -37.7 -184.1 -34.45" fill="#000000" fill-opacity="0.101960786" fill-rule="evenodd" stroke="none"/>
+    </g>
+    <radialGradient cx="0" cy="0" gradientTransform="matrix(0.6508, 0.0, 0.0, 0.6626, -30.9, -124.05)" gradientUnits="userSpaceOnUse" id="gradient0" r="819.2" spreadMethod="pad">
+      <stop offset="0.0" stop-color="#b03e3e"/>
+      <stop offset="1.0" stop-color="#211212"/>
+    </radialGradient>
+    <g id="sprite1" transform="matrix(1.0, 0.0, 0.0, 1.0, 124.5, 133.55)">
+      <use ffdec:characterId="2989" height="267.15" transform="matrix(1.0, 0.0, 0.0, 1.0, -124.5, -133.55)" width="249.05" xlink:href="#shape2"/>
+    </g>
+    <g id="shape2" transform="matrix(1.0, 0.0, 0.0, 1.0, 124.5, 133.55)">
+      <path d="M124.05 -133.05 L124.05 133.1 -124.0 133.1 -124.0 -133.05 124.05 -133.05" fill="#373737" fill-rule="evenodd" stroke="none"/>
+      <path d="M124.05 -133.05 L124.05 133.1 -124.0 133.1 -124.0 -133.05 124.05 -133.05 Z" fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.0"/>
+    </g>
+    <g id="sprite2" transform="matrix(1.0, 0.0, 0.0, 1.0, 18.35, 18.2)">
+      <use ffdec:characterId="2854" height="36.4" transform="matrix(1.0, 0.0, 0.0, 1.0, -18.35, -18.2)" width="36.7" xlink:href="#shape3"/>
+    </g>
+    <g id="shape3" transform="matrix(1.0, 0.0, 0.0, 1.0, 18.35, 18.2)">
+      <path d="M17.75 -11.1 L6.45 0.0 17.1 10.8 Q17.65 11.35 17.7 12.2 17.65 13.0 17.1 13.6 L13.4 17.2 Q12.8 17.8 12.0 17.8 11.2 17.8 10.6 17.2 L0.0 6.45 -11.3 17.6 Q-11.9 18.15 -12.7 18.2 -13.55 18.15 -14.1 17.6 L-17.75 13.9 Q-18.35 13.3 -18.35 12.5 -18.35 11.7 -17.75 11.1 L-6.45 -0.05 -17.05 -10.8 Q-17.65 -11.4 -17.65 -12.2 -17.65 -13.05 -17.05 -13.6 L-13.4 -17.25 Q-12.8 -17.85 -12.0 -17.85 -11.2 -17.85 -10.6 -17.25 L0.05 -6.45 11.35 -17.6 Q11.9 -18.2 12.75 -18.2 13.55 -18.2 14.15 -17.6 L17.8 -13.9 Q18.35 -13.35 18.35 -12.5 18.35 -11.7 17.75 -11.1" fill="#000000" fill-rule="evenodd" stroke="none"/>
+      <path d="M17.35 -12.5 L17.05 -11.8 5.05 0.0 16.4 11.5 16.7 12.2 16.4 12.9 12.7 16.5 12.0 16.8 11.3 16.5 0.0 5.05 -12.0 16.9 Q-12.3 17.15 -12.7 17.2 -13.15 17.15 -13.4 16.9 L-17.05 13.2 -17.35 12.5 -17.05 11.8 -5.05 -0.05 -16.35 -11.5 -16.65 -12.2 -16.35 -12.9 -12.7 -16.55 -12.0 -16.85 -11.3 -16.55 0.05 -5.05 12.05 -16.9 12.75 -17.2 Q13.15 -17.2 13.45 -16.9 L17.1 -13.2 17.35 -12.5" fill="#3e0f0f" fill-rule="evenodd" stroke="none"/>
+    </g>
+  </defs>
+</svg>
